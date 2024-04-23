@@ -47,7 +47,7 @@ const LoveLetter = () => {
         <br />
         always yours,
         <br />
-        @Durga_Babu
+        @Durga_Babuuuuu
       </div>
       <audio
         ref={audioRef}
